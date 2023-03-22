@@ -1,0 +1,2 @@
+- Hiệu suất server khá tốt
+- Thời gian xử lý thấp và số lượng request xử lý đồng thời lại cao cho thấy Server đang rất tốt.

@@ -1,0 +1,4 @@
+- Video API: https://drive.google.com/file/d/1lsqnOFj6IVxuj-TlTSSsbxUfrdkoTD7k/view?usp=sharing
+- Selenium: 
+	+ https://drive.google.com/file/d/1yV7AdsRDkGJph31PeTvDNO6ZhKxIJQz0/view?usp=share_link
+	+ https://drive.google.com/file/d/1QWTqHKrK5UqAvDIbrqbGjniuw91zGgQ2/view?usp=share_link
